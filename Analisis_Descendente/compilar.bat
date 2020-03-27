@@ -1,0 +1,1 @@
+javac -cp lib\antlr-4.7.1-complete.jar -d bin src/java/*.java
